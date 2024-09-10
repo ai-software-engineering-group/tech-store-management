@@ -22,3 +22,4 @@
 <h3>Công nghệ sử dụng </h3>
 <hr>
 <p>Winform: ASP.NET application</p>
+<p>Database: SQL SERVER</p>
