@@ -1,5 +1,6 @@
 # tech-store-management
 <h3>Mô Tả Dự Án</h3>
+<a>...là một hệ thống ứng dụng đa nền tảng cho phép người dùng mua các thiết bị điện tử như máy tính, điện thoại,.. trực tuyến. Đồng thời cung cấp một ứng dụng tiện lợi để quản lý cửa hàng một cách hiệu quả.</a>
 <h3>Thành Viên Nhóm</h1>
 <hr>
 <table>
