@@ -1,6 +1,10 @@
 # tech-store-management
 <table>
-  <tr> Võ Khánh Hưng</tr>
-  <tr>Nguyễn Thị Thùy Dương</tr>
-  <tr>Lê Hoàng Sang</tr>
+  <tr>
+    <td> Võ Khánh Hưng</td>
+    <td>Nguyễn Thị Thùy Dương</td>
+    <td>Lê Hoàng Sang</td>
+  </tr>
+  
+
 </table>
