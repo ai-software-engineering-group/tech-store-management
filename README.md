@@ -27,8 +27,10 @@
 <h3>Mô Tả Nghiệp Vụ </h3>
 <hr>
 <p>Webform</p>
-<tr>
- <td>Số Thứ Tự</td>
- <td> Nghiệp vụ</td>
- <td>Phân công</td>
-</tr>
+<table>
+ <tr>
+  <td>Số Thứ Tự</td>
+  <td> Nghiệp vụ</td>
+  <td>Phân công</td>
+ </tr>
+</table>
