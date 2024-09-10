@@ -1,5 +1,6 @@
 # tech-store-management
 <h1>Thành Viên Nhóm</h1>
+<hr>
 <table>
  <tr>
    <td>Thành Viên</td>
