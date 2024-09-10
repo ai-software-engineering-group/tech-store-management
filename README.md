@@ -21,5 +21,14 @@
 </table>
 <h3>Công nghệ sử dụng </h3>
 <hr>
+<p>Wedform: ASP.NET MVC </p>
 <p>Winform: ASP.NET application</p>
 <p>Database: SQL SERVER</p>
+<h3>Mô Tả Nghiệp Vụ </h3>
+<hr>
+<p>Webform</p>
+<tr>
+ <td>Số Thứ Tự</td>
+ <td> Nghiệp vụ</td>
+ <td>Phân công</td>
+</tr>
