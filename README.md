@@ -1,5 +1,5 @@
 # Xây dựng hệ thống bán các sản phẩm điện tử
-Đồ án xây dựng hệ thống quản lý bán các sản phẩm điện tử, máy tính. Áp dụng AI để gợi ý sản phẩm, chatbot. Hệ thống gồm 2 nền tảng chính là Website (ASP.NET Core Web API, ReactJS) và Windows App (Winforms)
+Đồ án xây dựng hệ thống quản lý bán các sản phẩm điện tử, máy tính. Áp dụng AI chatbot hỗ trợ chăm sóc khách hàng. Hệ thống gồm 2 nền tảng chính là Website (ASP.NET Core Web API, ReactJS) và Windows App (Winforms)
 
 ## :mortar_board: Thành viên nhóm
 |Tên thành viên| Vai trò |
