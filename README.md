@@ -1,5 +1,5 @@
 # tech-store-management
-<h1>Thành Viên Nhóm</h1>
+<h3>Thành Viên Nhóm</h1>
 <hr>
 <table>
  <tr>
@@ -19,3 +19,6 @@
   <td>Thành viên</td>
  </tr>
 </table>
+<h3>Công nghệ sử dụng </h3>
+<hr>
+<p>Winform: ASP.NET application</p>
