@@ -28,8 +28,7 @@
 | 6 | Tra cứu đơn hàng | Thùy Dương  |
 | 7 | Xem lịch sử mua hàng, tải hóa đơn | Thùy Dương  |
 | 8 | Đánh giá, nhận xét sản phẩm | Võ Khánh Hưng |
-| 9 | Gợi ý tìm kiếm sản phẩm bằng AI | Nhóm |
-| 10 | Chatbot hỗ trợ chăm sóc khách hàng | Nhóm |
+| 9 | Chatbot hỗ trợ chăm sóc khách hàng | Nhóm |
 
 ### :computer: Windows App
 | STT | Chức năng |  Phân công |
