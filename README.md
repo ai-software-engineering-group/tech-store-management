@@ -33,4 +33,19 @@
   <td> Nghiệp vụ</td>
   <td>Phân công</td>
  </tr>
+ <tr>
+  <td>1</td>
+  <td>Tìm kiếm sách</td>
+  <td>Sang</td>
+ </tr>
+ <tr>
+  <td>2</td>
+  <td>Đăng nhập đăng ký</td>
+  <td>Dương</td>
+ </tr>
+ <tr>
+  <td>3</td>
+  <td>Xem Thông tin chi tiết sản phẩm</td>
+  <td>Hưng</td>
+ </tr>
 </table>
