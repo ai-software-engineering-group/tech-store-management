@@ -10,8 +10,7 @@
 
 ## :stars: Công nghệ sử dụng:
  - Website:
-	 - Front-end: ReactJS
-	 - Backend: ASP.NET Core 8 Web API
+	 - ASP.NET Core 8 MVC
 - Windows App:
 	- Windows Forms (.NET Framework 4.8)
 - Database: MSSQL 2022
