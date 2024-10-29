@@ -1,5 +1,5 @@
 # Xây dựng hệ thống bán các sản phẩm điện tử
-Đồ án xây dựng hệ thống quản lý bán các sản phẩm điện tử, máy tính. Áp dụng AI chatbot hỗ trợ chăm sóc khách hàng. Hệ thống gồm 2 nền tảng chính là Website (ASP.NET Core Web API, ReactJS) và Windows App (Winforms)
+Đồ án xây dựng hệ thống quản lý bán các sản phẩm điện tử, máy tính. Áp dụng AI chatbot hỗ trợ chăm sóc khách hàng. Hệ thống gồm 2 nền tảng chính là Website (ASP.NET Core MVC) và Windows App (Winforms)
 
 ## :mortar_board: Thành viên nhóm
 |Tên thành viên| Vai trò |
@@ -10,11 +10,12 @@
 
 ## :stars: Công nghệ sử dụng:
  - Website:
-	 - ASP.NET Core 8 MVC
+	 - ASP.NET Core MVC
 - Windows App:
 	- Windows Forms (.NET Framework 4.8)
 - Database: MSSQL 2022
-
+- Tools:
+ - JetBrains Rider, Visual Studio 2022, Azure Cloud
 ## :page_with_curl: Mô tả đồ án
 ### :globe_with_meridians: Website
 | STT | Chức năng |  Phân công |
