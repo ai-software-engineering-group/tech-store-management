@@ -39,7 +39,7 @@
 | 3 | Quản lý sản phẩm | Lê Hoàng Sang |
 | 4 | Quản lý đơn hàng | Võ Khánh Hưng |
 | 5 | Quản lý khách hàng | Thùy Dương  |
-| 6 | Quản lý tài khoản trên website | Thùy Dương  |
+| 6 | Quản lý nhân viên | Thùy Dương  |
 | 7 | Quản lý kho hàng | Võ Khánh Hưng |
 | 8 | Quản lý nhập kho | Lê Hoàng Sang |
 | 9 | Quản lý xuất kho | Võ Khánh Hưng |
